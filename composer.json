@@ -1,5 +1,5 @@
 {
-    "name": "quangtam/nganluong",
+    "name": "topmtv/nganluong",
     "description": "Tích hợp thanh toán qua Ngân Lượng cho website Laravel",
     "license": "MIT",
     "keywords": ["laravel", "nganluong", "jacksonit"],
